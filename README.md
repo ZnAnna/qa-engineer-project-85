@@ -1,2 +1,8 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/ZnAnna/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ZnAnna/qa-engineer-project-85/actions)
+Проект тестирования интернет-игры https://codebattle.hexlet.io для программистов
+
+Содержание файлов:
+* requirements.yml — описание функциональных, нефункциональных и неявных требований проекта
+* test-cases.yml — подробные тест-кейсы для проведения тестирования
+* testing-report.yml — результат прохождения тест-кейсов с отметкой об их успешности или провальности
+* ussues.yml — подробное описание дефектов и шагов по их воспроизведению
+* reopned-ussues.yml — отчет о проведенном регрессионном тестировании и новые баг-репорты
